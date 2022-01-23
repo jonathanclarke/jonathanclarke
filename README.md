@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @jonathanclarke
+- 👀 I’m interested in small startups doing big things
+- 🌱 I’m currently learning rust && webassembly
+- 📫 How to reach me @_jonathanclarke
