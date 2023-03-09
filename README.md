@@ -1,4 +1,7 @@
 - 👋 Hi, I’m @jonathanclarke
-- 👀 I’m interested in small startups doing big things
+- 🗺️ I'm often in 🇮🇪 🇦🇺 🇳🇵 
+- 🔨 I ply my trade as Director of Engineering for houzz.com
+- 👀 I’m interested in indie hacking, system orchestration, public health and construction software 
 - 🌱 I’m currently learning rust && webassembly
-- 📫 How to reach me @sean_o_cleirigh
+- 📫 Find me on mastadon: https://mastodon.ie/@jonathanclarke
+- 📬 Feel free to reach out: hi@jonathanclarke.ie
