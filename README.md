@@ -2,6 +2,5 @@
 - 🗺️ I'm often in 🇮🇪 🇦🇺 🇳🇵 
 - 🔨 I ply my trade as Director of Engineering for houzz.com
 - 👀 I’m interested in indie hacking, system orchestration, public health and construction software 
-- 🌱 I’m currently learning rust && webassembly
 - 📫 Find me on mastadon: https://mastodon.ie/@jonathanclarke
 - 📬 Feel free to reach out: hi@jonathanclarke.ie
