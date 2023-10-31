@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jonathanclarke
 - 🗺️ I'm often in 🇮🇪 🇦🇺 🇳🇵 
-- 🔨 I ply my trade as Director of Engineering for houzz.com
+- 🔨 Director of Engineering @ houzz.com
 - 👀 I’m interested in indie hacking, system orchestration, public health and construction software 
 - 📫 Find me on mastadon: https://mastodon.ie/@jonathanclarke
 - 📬 Feel free to reach out: hi@jonathanclarke.ie
